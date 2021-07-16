@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insight-website/n/static/css/main.a617e044.chunk.css",
+    "main.js": "/insight-website/n/static/js/main.40334bc6.chunk.js",
+    "main.js.map": "/insight-website/n/static/js/main.40334bc6.chunk.js.map",
+    "runtime-main.js": "/insight-website/n/static/js/runtime-main.4c5e1e75.js",
+    "runtime-main.js.map": "/insight-website/n/static/js/runtime-main.4c5e1e75.js.map",
+    "static/js/2.8e72ff27.chunk.js": "/insight-website/n/static/js/2.8e72ff27.chunk.js",
+    "static/js/2.8e72ff27.chunk.js.map": "/insight-website/n/static/js/2.8e72ff27.chunk.js.map",
+    "static/js/3.f707fae3.chunk.js": "/insight-website/n/static/js/3.f707fae3.chunk.js",
+    "static/js/3.f707fae3.chunk.js.map": "/insight-website/n/static/js/3.f707fae3.chunk.js.map",
+    "index.html": "/insight-website/n/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/insight-website/n/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8e72ff27.chunk.js.LICENSE.txt": "/insight-website/n/static/js/2.8e72ff27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5e1e75.js",
+    "static/js/2.8e72ff27.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.40334bc6.chunk.js"
+  ]
+}
